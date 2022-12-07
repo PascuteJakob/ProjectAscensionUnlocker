@@ -1,0 +1,17 @@
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\bin\Debug\net6.0-windows\ProjectAscensionUnlocker.exe
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\bin\Debug\net6.0-windows\ProjectAscensionUnlocker.deps.json
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\bin\Debug\net6.0-windows\ProjectAscensionUnlocker.runtimeconfig.json
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\bin\Debug\net6.0-windows\ProjectAscensionUnlocker.dll
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\bin\Debug\net6.0-windows\ref\ProjectAscensionUnlocker.dll
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\bin\Debug\net6.0-windows\ProjectAscensionUnlocker.pdb
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ProjectAscensionUnlocker.csproj.AssemblyReference.cache
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ProjectAscensionUnlocker.Form1.resources
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ProjectAscensionUnlocker.csproj.GenerateResource.cache
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ProjectAscensionUnlocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ProjectAscensionUnlocker.AssemblyInfoInputs.cache
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ProjectAscensionUnlocker.AssemblyInfo.cs
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ProjectAscensionUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ProjectAscensionUnlocker.dll
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ref\ProjectAscensionUnlocker.dll
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ProjectAscensionUnlocker.pdb
+C:\Users\Rock\source\repos\ProjectAscensionUnlocker\ProjectAscensionUnlocker\obj\Debug\net6.0-windows\ProjectAscensionUnlocker.genruntimeconfig.cache
